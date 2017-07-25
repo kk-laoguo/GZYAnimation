@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EA18EE4F1F20754000462CD3 /* PictureLodingVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EA18EE4E1F20754000462CD3 /* PictureLodingVc.m */; };
+		EA18EE8C1F20B00600462CD3 /* RadarViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA18EE8B1F20B00600462CD3 /* RadarViewController.m */; };
 		EA8994341F1C8BA800A61158 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994331F1C8BA800A61158 /* main.m */; };
 		EA8994371F1C8BA800A61158 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994361F1C8BA800A61158 /* AppDelegate.m */; };
 		EA89943A1F1C8BA800A61158 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994391F1C8BA800A61158 /* ViewController.m */; };
@@ -15,6 +17,19 @@
 		EA8994421F1C8BA800A61158 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EA8994401F1C8BA800A61158 /* LaunchScreen.storyboard */; };
 		EA89944D1F1C8BA800A61158 /* __17AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA89944C1F1C8BA800A61158 /* __17AnimationTests.m */; };
 		EA8994581F1C8BA800A61158 /* __17AnimationUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994571F1C8BA800A61158 /* __17AnimationUITests.m */; };
+		EA8994671F1C912600A61158 /* GZYBaseCalayerVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994661F1C912600A61158 /* GZYBaseCalayerVc.m */; };
+		EA89946A1F1C914500A61158 /* GZYClockVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994691F1C914500A61158 /* GZYClockVc.m */; };
+		EA89946D1F1C916200A61158 /* GZYHeaderBeatVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EA89946C1F1C916200A61158 /* GZYHeaderBeatVc.m */; };
+		EA8994731F1C921500A61158 /* GZYPictureFloldVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994721F1C921500A61158 /* GZYPictureFloldVc.m */; };
+		EA8994761F1C924D00A61158 /* GZYMusicVibration.m in Sources */ = {isa = PBXBuildFile; fileRef = EA8994751F1C924D00A61158 /* GZYMusicVibration.m */; };
+		EAC0F5351F21F98600BB7CBB /* PictureLodingNextVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EAC0F5341F21F98600BB7CBB /* PictureLodingNextVc.m */; };
+		EAF1E55F1F1D96890008347B /* WeiBoChildVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF1E55E1F1D96890008347B /* WeiBoChildVc.m */; };
+		EAF1E5621F1D9A430008347B /* GZYItemButton.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF1E5611F1D9A430008347B /* GZYItemButton.m */; };
+		EAF1E5651F1E0DFA0008347B /* ZYReflectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF1E5641F1E0DFA0008347B /* ZYReflectionView.m */; };
+		EAF2CF5E1F1C971C00976889 /* GZYReflectionVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF2CF5D1F1C971C00976889 /* GZYReflectionVc.m */; };
+		EAF2CF641F1C988100976889 /* QQViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF2CF631F1C988100976889 /* QQViewController.m */; };
+		EAF2CF671F1C98A300976889 /* WeiBoAnimationVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF2CF661F1C98A300976889 /* WeiBoAnimationVc.m */; };
+		EAF2CF6A1F1C990E00976889 /* MosaicVc.m in Sources */ = {isa = PBXBuildFile; fileRef = EAF2CF691F1C990E00976889 /* MosaicVc.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +50,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EA18EE4D1F20754000462CD3 /* PictureLodingVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PictureLodingVc.h; sourceTree = "<group>"; };
+		EA18EE4E1F20754000462CD3 /* PictureLodingVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PictureLodingVc.m; sourceTree = "<group>"; };
+		EA18EE8A1F20B00600462CD3 /* RadarViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RadarViewController.h; sourceTree = "<group>"; };
+		EA18EE8B1F20B00600462CD3 /* RadarViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RadarViewController.m; sourceTree = "<group>"; };
 		EA89942F1F1C8BA800A61158 /* 7-17Animation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "7-17Animation.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA8994331F1C8BA800A61158 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		EA8994351F1C8BA800A61158 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -51,6 +70,32 @@
 		EA8994531F1C8BA800A61158 /* 7-17AnimationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "7-17AnimationUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA8994571F1C8BA800A61158 /* __17AnimationUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = __17AnimationUITests.m; sourceTree = "<group>"; };
 		EA8994591F1C8BA800A61158 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EA8994651F1C912600A61158 /* GZYBaseCalayerVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYBaseCalayerVc.h; sourceTree = "<group>"; };
+		EA8994661F1C912600A61158 /* GZYBaseCalayerVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYBaseCalayerVc.m; sourceTree = "<group>"; };
+		EA8994681F1C914500A61158 /* GZYClockVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYClockVc.h; sourceTree = "<group>"; };
+		EA8994691F1C914500A61158 /* GZYClockVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYClockVc.m; sourceTree = "<group>"; };
+		EA89946B1F1C916200A61158 /* GZYHeaderBeatVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYHeaderBeatVc.h; sourceTree = "<group>"; };
+		EA89946C1F1C916200A61158 /* GZYHeaderBeatVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYHeaderBeatVc.m; sourceTree = "<group>"; };
+		EA8994711F1C921500A61158 /* GZYPictureFloldVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYPictureFloldVc.h; sourceTree = "<group>"; };
+		EA8994721F1C921500A61158 /* GZYPictureFloldVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYPictureFloldVc.m; sourceTree = "<group>"; };
+		EA8994741F1C924D00A61158 /* GZYMusicVibration.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYMusicVibration.h; sourceTree = "<group>"; };
+		EA8994751F1C924D00A61158 /* GZYMusicVibration.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYMusicVibration.m; sourceTree = "<group>"; };
+		EAC0F5331F21F98600BB7CBB /* PictureLodingNextVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PictureLodingNextVc.h; sourceTree = "<group>"; };
+		EAC0F5341F21F98600BB7CBB /* PictureLodingNextVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PictureLodingNextVc.m; sourceTree = "<group>"; };
+		EAF1E55D1F1D96890008347B /* WeiBoChildVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiBoChildVc.h; sourceTree = "<group>"; };
+		EAF1E55E1F1D96890008347B /* WeiBoChildVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeiBoChildVc.m; sourceTree = "<group>"; };
+		EAF1E5601F1D9A430008347B /* GZYItemButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYItemButton.h; sourceTree = "<group>"; };
+		EAF1E5611F1D9A430008347B /* GZYItemButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYItemButton.m; sourceTree = "<group>"; };
+		EAF1E5631F1E0DFA0008347B /* ZYReflectionView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZYReflectionView.h; sourceTree = "<group>"; };
+		EAF1E5641F1E0DFA0008347B /* ZYReflectionView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZYReflectionView.m; sourceTree = "<group>"; };
+		EAF2CF5C1F1C971C00976889 /* GZYReflectionVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GZYReflectionVc.h; sourceTree = "<group>"; };
+		EAF2CF5D1F1C971C00976889 /* GZYReflectionVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GZYReflectionVc.m; sourceTree = "<group>"; };
+		EAF2CF621F1C988100976889 /* QQViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = QQViewController.h; sourceTree = "<group>"; };
+		EAF2CF631F1C988100976889 /* QQViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = QQViewController.m; sourceTree = "<group>"; };
+		EAF2CF651F1C98A300976889 /* WeiBoAnimationVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WeiBoAnimationVc.h; sourceTree = "<group>"; };
+		EAF2CF661F1C98A300976889 /* WeiBoAnimationVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WeiBoAnimationVc.m; sourceTree = "<group>"; };
+		EAF2CF681F1C990E00976889 /* MosaicVc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MosaicVc.h; sourceTree = "<group>"; };
+		EAF2CF691F1C990E00976889 /* MosaicVc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MosaicVc.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +150,36 @@
 				EA8994361F1C8BA800A61158 /* AppDelegate.m */,
 				EA8994381F1C8BA800A61158 /* ViewController.h */,
 				EA8994391F1C8BA800A61158 /* ViewController.m */,
+				EA8994651F1C912600A61158 /* GZYBaseCalayerVc.h */,
+				EA8994661F1C912600A61158 /* GZYBaseCalayerVc.m */,
+				EA8994681F1C914500A61158 /* GZYClockVc.h */,
+				EA8994691F1C914500A61158 /* GZYClockVc.m */,
+				EA89946B1F1C916200A61158 /* GZYHeaderBeatVc.h */,
+				EA89946C1F1C916200A61158 /* GZYHeaderBeatVc.m */,
+				EA18EE4D1F20754000462CD3 /* PictureLodingVc.h */,
+				EA18EE4E1F20754000462CD3 /* PictureLodingVc.m */,
+				EAC0F5331F21F98600BB7CBB /* PictureLodingNextVc.h */,
+				EAC0F5341F21F98600BB7CBB /* PictureLodingNextVc.m */,
+				EA8994711F1C921500A61158 /* GZYPictureFloldVc.h */,
+				EA8994721F1C921500A61158 /* GZYPictureFloldVc.m */,
+				EA8994741F1C924D00A61158 /* GZYMusicVibration.h */,
+				EA8994751F1C924D00A61158 /* GZYMusicVibration.m */,
+				EAF2CF5C1F1C971C00976889 /* GZYReflectionVc.h */,
+				EAF2CF5D1F1C971C00976889 /* GZYReflectionVc.m */,
+				EA18EE8A1F20B00600462CD3 /* RadarViewController.h */,
+				EA18EE8B1F20B00600462CD3 /* RadarViewController.m */,
+				EAF2CF621F1C988100976889 /* QQViewController.h */,
+				EAF2CF631F1C988100976889 /* QQViewController.m */,
+				EAF2CF651F1C98A300976889 /* WeiBoAnimationVc.h */,
+				EAF2CF661F1C98A300976889 /* WeiBoAnimationVc.m */,
+				EAF1E55D1F1D96890008347B /* WeiBoChildVc.h */,
+				EAF1E55E1F1D96890008347B /* WeiBoChildVc.m */,
+				EAF2CF681F1C990E00976889 /* MosaicVc.h */,
+				EAF2CF691F1C990E00976889 /* MosaicVc.m */,
+				EAF1E5601F1D9A430008347B /* GZYItemButton.h */,
+				EAF1E5611F1D9A430008347B /* GZYItemButton.m */,
+				EAF1E5631F1E0DFA0008347B /* ZYReflectionView.h */,
+				EAF1E5641F1E0DFA0008347B /* ZYReflectionView.m */,
 				EA89943B1F1C8BA800A61158 /* Main.storyboard */,
 				EA89943E1F1C8BA800A61158 /* Assets.xcassets */,
 				EA8994401F1C8BA800A61158 /* LaunchScreen.storyboard */,
@@ -276,9 +351,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EA18EE8C1F20B00600462CD3 /* RadarViewController.m in Sources */,
+				EA89946A1F1C914500A61158 /* GZYClockVc.m in Sources */,
+				EA8994761F1C924D00A61158 /* GZYMusicVibration.m in Sources */,
+				EA8994671F1C912600A61158 /* GZYBaseCalayerVc.m in Sources */,
+				EAF2CF5E1F1C971C00976889 /* GZYReflectionVc.m in Sources */,
+				EA89946D1F1C916200A61158 /* GZYHeaderBeatVc.m in Sources */,
+				EAF2CF641F1C988100976889 /* QQViewController.m in Sources */,
 				EA89943A1F1C8BA800A61158 /* ViewController.m in Sources */,
+				EAF2CF6A1F1C990E00976889 /* MosaicVc.m in Sources */,
 				EA8994371F1C8BA800A61158 /* AppDelegate.m in Sources */,
+				EA8994731F1C921500A61158 /* GZYPictureFloldVc.m in Sources */,
+				EAF1E55F1F1D96890008347B /* WeiBoChildVc.m in Sources */,
 				EA8994341F1C8BA800A61158 /* main.m in Sources */,
+				EAC0F5351F21F98600BB7CBB /* PictureLodingNextVc.m in Sources */,
+				EAF2CF671F1C98A300976889 /* WeiBoAnimationVc.m in Sources */,
+				EA18EE4F1F20754000462CD3 /* PictureLodingVc.m in Sources */,
+				EAF1E5651F1E0DFA0008347B /* ZYReflectionView.m in Sources */,
+				EAF1E5621F1D9A430008347B /* GZYItemButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -516,6 +606,7 @@
 				EA89945E1F1C8BA800A61158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA89945F1F1C8BA800A61158 /* Build configuration list for PBXNativeTarget "7-17AnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +615,7 @@
 				EA8994611F1C8BA800A61158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		EA8994621F1C8BA800A61158 /* Build configuration list for PBXNativeTarget "7-17AnimationUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +624,7 @@
 				EA8994641F1C8BA800A61158 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
