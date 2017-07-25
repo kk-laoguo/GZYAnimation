@@ -1,5 +1,5 @@
 //
-//  GZYBaseCalayerVc.h
+//  BreathVc.h
 //  7-17Animation
 //
 //  Created by 今代科技 on 2017/7/25.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface GZYBaseCalayerVc : UITableViewController
+@interface BreathVc : UIViewController
 
 @end
